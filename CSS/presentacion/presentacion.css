@@ -8,6 +8,10 @@
     margin: 0 2.5rem;
 }
 
+.presentacion__div{
+    width: calc(100vw - 380px);
+}
+
 @media (max-width: 768px) {
     .presentacion{
         align-items: center;
