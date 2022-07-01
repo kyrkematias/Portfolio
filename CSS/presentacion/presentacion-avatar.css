@@ -4,6 +4,7 @@
     background-position: center;
     background-repeat: no-repeat;
     border-radius: 100%;
+    display:inline-block;
     height: 300px;
     margin-right: 2rem;
     width: 370px;

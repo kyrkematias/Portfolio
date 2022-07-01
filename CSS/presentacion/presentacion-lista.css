@@ -4,7 +4,7 @@
     flex-direction: row;
     justify-content: flex-start;
     align-items: center;
-    margin-top: 4rem;
+    margin-top: 10rem;
 }
 
 @media (max-width: 768px){
