@@ -23,7 +23,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        margin-top: auto;
+        margin-top: 50px;
         width: 100vw;
         height: fit-content;
     }

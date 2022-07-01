@@ -17,3 +17,10 @@
         width: 100vw;
     }
 }
+
+@media (max-width: 600px){
+    .presentacion__descripcion{
+        font-size: 15px;
+        margin: 0 ;
+    }
+}

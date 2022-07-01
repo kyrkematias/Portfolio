@@ -17,5 +17,7 @@
     .presentacion__lista{
         flex-wrap: wrap;
         width: 100vw;
+        margin-top: 1rem;
+        font-size: 10px;
     }
 }
