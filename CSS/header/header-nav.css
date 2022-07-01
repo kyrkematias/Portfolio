@@ -1,0 +1,6 @@
+.header__nav{
+    display: flex;
+    margin-left: 20rem;
+    border-right: 1px solid #464646;
+    border-left: 1px solid #464646;
+}
