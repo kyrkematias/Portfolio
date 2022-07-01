@@ -7,8 +7,15 @@
     border-bottom: #464646 1px solid;
 }
 
-/*@media (min-width: 600px){
+@media (max-width: 320px){
     .presentacion__lista__link{
-
+        font-size: 15px;
     }
 }
+
+@media (min-width: 375px){
+    .presentacion__lista__link{
+        font-size: 20px;
+    }
+}
+
