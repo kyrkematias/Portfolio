@@ -5,3 +5,9 @@
     align-items: center;
     margin-top: 4rem;
 }
+
+@media (max-width: 768px){
+    .presentacion__lista{
+        justify-content: center;
+    }
+}

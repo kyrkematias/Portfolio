@@ -5,3 +5,9 @@
     font-weight: bold;
     margin-bottom: 2rem;
 }
+
+@media (max-width: 768px){
+    .presentacion__nombre{
+        text-align: center;
+    }
+}

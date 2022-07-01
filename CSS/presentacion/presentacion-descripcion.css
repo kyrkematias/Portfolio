@@ -7,3 +7,13 @@
     margin-top: 2rem;
     width: 80%;
 }
+
+@media (max-width: 768px){
+    .presentacion__descripcion{
+        text-align: center;
+        font-size: 18px;
+        align-items: center;
+        margin: 0;
+        width: 100vw;
+    }
+}
