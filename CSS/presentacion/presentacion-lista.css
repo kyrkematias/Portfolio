@@ -1,6 +1,7 @@
 .presentacion__lista{
     align-items: center;
     display: flex;
+    flex-direction: row;
     justify-content: flex-start;
     align-items: center;
     margin-top: 4rem;
@@ -9,5 +10,12 @@
 @media (max-width: 768px){
     .presentacion__lista{
         justify-content: center;
+    }
+}
+
+@media (max-width: 600px){
+    .presentacion__lista{
+        flex-wrap: wrap;
+        width: 100vw;
     }
 }

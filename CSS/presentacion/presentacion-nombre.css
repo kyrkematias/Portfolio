@@ -11,3 +11,9 @@
         text-align: center;
     }
 }
+
+@media (max-width: 600px){
+    .presentacion__nombre{
+        width: 100vw;
+    }
+}
