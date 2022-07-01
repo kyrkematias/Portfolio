@@ -1,0 +1,10 @@
+.presentacion__avatar{
+    background: url(../../IMAGENES/242567784_10159292919841664_5022355005537457348_n.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    height: 300px;
+    margin-right: 2rem;
+    width: 35%;
+}

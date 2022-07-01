@@ -1,0 +1,8 @@
+.presentacion{
+    align-items: center;
+    background: #F5F5F5;
+    display: flex;
+    height: calc(100vh - 4rem);
+    justify-content: center;
+    margin: 0 3rem;
+}

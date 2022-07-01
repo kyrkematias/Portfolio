@@ -1,0 +1,8 @@
+.presentacion__lista__link{
+    color: #464646;
+    text-decoration: none;
+}
+
+.presentacion__lista__link:hover{
+    border-bottom: #464646 1px solid;
+}
