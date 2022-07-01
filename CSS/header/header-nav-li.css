@@ -1,6 +1,6 @@
 .header__nav__li{
-    text-align: center;
     margin: 0 1rem;
+    text-align: center;
 }
 
 @media (max-width: 780px){
