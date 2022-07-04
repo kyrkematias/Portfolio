@@ -5,8 +5,8 @@
         flex-direction: column;
         justify-content: center;
         height: 383px;
-        padding: 2.5rem;
-        width: 100vw;
+        padding: 2.5rem 0 2.5rem 2.5rem;
+        width: 96vw;
     }
 }
 
