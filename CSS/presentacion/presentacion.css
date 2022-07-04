@@ -17,8 +17,7 @@
         align-items: center;
         flex-direction: column;
         justify-content: center;
-        margin: 0;
-        width: 768px;
+        width: 80vw;
     }
     .presentacion__div{
         width: 100vw;
@@ -31,7 +30,7 @@
         justify-content: center;
         align-items: center;
         margin-top: 50px;
-        width: 100vw;
+        width: 90vw;
         height: fit-content;
     }
 }

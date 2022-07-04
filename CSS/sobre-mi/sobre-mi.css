@@ -1,0 +1,21 @@
+@media (min-width: 992px){
+    .sobreMi{
+        background: #EAF2FD;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        height: 383px;
+        padding: 2.5rem;
+        width: 100vw;
+    }
+}
+
+@media (max-width: 768px){
+    .sobreMi{
+        background: #EAF2FD;
+        display: block;
+        height: 100vh;
+        padding: 1rem;
+        width: 100vw;
+    }
+}

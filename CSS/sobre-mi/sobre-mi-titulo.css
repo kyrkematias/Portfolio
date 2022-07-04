@@ -1,0 +1,18 @@
+@media (min-width: 992px){
+    .sobreMi__titulo{
+        color: #464646;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 25px;
+        font-weight: bold;
+    }
+}
+
+@media (min-width: 768px){
+    .sobreMi__titulo{
+        color: #464646;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 25px;
+        font-weight: bold;
+        padding: 0.5rem;
+    }
+}
