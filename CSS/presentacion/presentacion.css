@@ -6,6 +6,7 @@
     height: calc(100vh - 4rem);
     justify-content: center;
     margin: 0 ;
+    padding: 2.5rem;
 }
 
 .presentacion__div{
