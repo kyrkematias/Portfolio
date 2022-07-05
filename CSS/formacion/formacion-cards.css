@@ -1,0 +1,10 @@
+.formacion__cards{
+    display: flex;
+    flex-direction: row;
+}
+
+.marketin-digital{
+    background: #ffffff;
+    height: 286px;
+    width: 368px;
+}
