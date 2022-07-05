@@ -1,0 +1,28 @@
+.xp__btn{
+    margin-top: 2rem;
+}
+
+.xp__btn-repo{
+    border: 1px solid #2A7AE4;
+    color: #2A7AE4;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    text-decoration: none;
+    padding: 1.5rem;
+}
+
+.xp__btn-demo{
+    background: #2A7AE4;
+    border: 1px solid #2A7AE4;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    text-decoration: none;
+    padding: 1.5rem;
+}
