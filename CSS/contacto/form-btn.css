@@ -9,4 +9,9 @@
     padding: 1.5rem;
     text-align: center;
     width: 285px;
+    transition: 0.5s;
+}
+
+.form__btn:hover{
+    background: #464646;
 }

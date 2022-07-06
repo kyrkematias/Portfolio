@@ -5,21 +5,3 @@
     text-align: center;
 }
 
-@media (max-width: 768px){
-    .presentacion__lista__item{
-        margin: 1.5rem;
-        padding: 0.5rem;
-    }
-}
-
-@media (max-width: 600px){
-    .presentacion__lista__item{
-        margin: 1.5rem;
-    }
-}
-
-@media (min-width: 375px){
-    .presentacion__lista__item{
-       
-    }
-}

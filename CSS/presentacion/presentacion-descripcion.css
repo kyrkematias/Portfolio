@@ -9,20 +9,4 @@
     width: 80%;
 }
 
-@media (max-width: 768px){
-    .presentacion__descripcion{
-        text-align: center;
-        font-size: 22px;
-        align-items: center;
-        width: fit-content;
-    }
-}
 
-@media (max-width: 600px){
-    .presentacion__descripcion{
-        text-align: center;
-        font-size: 22px;
-        align-items: center;
-        margin: 0 2rem;
-    }
-}

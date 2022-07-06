@@ -6,17 +6,5 @@
     margin-bottom: 5rem;
 }
 
-@media (max-width: 768px){
-    .presentacion__nombre{
-        text-align: center;
-    }
-}
 
-@media (max-width: 600px){
-    .presentacion__nombre{
-        font-size: 25px;
-        margin-bottom: 2.5rem;
-        width: 100vw;
-    }
-}
 

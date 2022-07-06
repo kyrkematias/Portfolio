@@ -12,6 +12,7 @@
     text-align: center;
     text-decoration: none;
     padding: 1.5rem;
+    transition: 0.5s;
 }
 
 .xp__btn-demo{
@@ -25,4 +26,13 @@
     text-align: center;
     text-decoration: none;
     padding: 1.5rem;
+    transition: 0.5s;
+}
+
+.xp__btn-demo:hover{
+    background: #464646;
+}
+
+.xp__btn-repo:hover{
+    background: #EAF2FD;;
 }

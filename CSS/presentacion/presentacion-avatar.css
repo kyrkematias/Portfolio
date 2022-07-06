@@ -10,19 +10,3 @@
     width: 300px;
 }
 
-@media (max-width: 768px){
-    .presentacion__avatar{
-        margin: 1rem 0;
-        order: -1;
-        height: 150px;
-        width: 150px;
-    }
-}
-
-@media(max-width: 600px){
-    .presentacion__avatar{
-        height: 100px;
-        order: -1;
-        width: 100px;
-    }
-}

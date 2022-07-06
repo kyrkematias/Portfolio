@@ -7,17 +7,3 @@
     margin-top: 10rem;
 }
 
-@media (max-width: 768px){
-    .presentacion__lista{
-        justify-content: center;
-    }
-}
-
-@media (max-width: 600px){
-    .presentacion__lista{
-        flex-wrap: wrap;
-        margin-top: 1rem;
-        font-size: 10px;
-        width: 100vw;
-    }
-}

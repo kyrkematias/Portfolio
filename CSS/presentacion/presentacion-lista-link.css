@@ -7,15 +7,3 @@
     border-bottom: #464646 1px solid;
 }
 
-@media (max-width: 320px){
-    .presentacion__lista__link{
-        font-size: 20px;
-    }
-}
-
-@media (min-width: 375px){
-    .presentacion__lista__link{
-        font-size: 20px;
-    }
-}
-

@@ -1,7 +1,18 @@
-.footer{
-    align-items: center;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    padding: 2.5rem;
+@media (min-width: 992px){
+    .footer{
+        align-items: center;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding: 2.5rem;
+    }
+}
+
+@media (max-width: 600px){
+    .footer{
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        width: 100vw;
+    }
 }
