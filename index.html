@@ -37,7 +37,15 @@
     <link rel="stylesheet" href="CSS/xp/xp-cards.css">
     <link rel="stylesheet" href="CSS/xp/xp-card-card.css">
     <link rel="stylesheet" href="CSS/xp/xp-btn.css">
-
+    <link rel="stylesheet" href="CSS/contacto/contacto.css">
+    <link rel="stylesheet" href="CSS/contacto/contacto-contacto.css">
+    <link rel="stylesheet" href="CSS/contacto/contacto-form.css">
+    <link rel="stylesheet" href="CSS/contacto/contacto-form-input.css">
+    <link rel="stylesheet" href="CSS/contacto/form-btn.css">
+    <link rel="stylesheet" href="CSS/contacto/contacto-ta.css">
+    <link rel="stylesheet" href="CSS/footer/footer.css">
+    <link rel="stylesheet" href="CSS/footer/footer-titulo.css">
+    <link rel="stylesheet" href="CSS/footer/footer-social.css">
 
 </head>
 <body>
@@ -49,16 +57,16 @@
                     <a href="#sobreMi" class="header__nav__li-a">Sobre mi</a>
                 </li>
                 <li class="header__nav__li">
-                    <a href="#" class="header__nav__li-a">Skills</a>
+                    <a href="#skills" class="header__nav__li-a">Skills</a>
                 </li>
                 <li class="header__nav__li">
-                    <a href="#" class="header__nav__li-a">Hobbies</a>
+                    <a href="#hobbies" class="header__nav__li-a">Hobbies</a>
                 </li>
                 <li class="header__nav__li">
-                    <a href="#" class="header__nav__li-a">Formación</a>
+                    <a href="#formacion" class="header__nav__li-a">Formación</a>
                 </li>
                 <li class="header__nav__li">
-                    <a href="#" class="header__nav__li-a">Proyectos</a>
+                    <a href="#proyectos" class="header__nav__li-a">Proyectos</a>
                 </li>
             </ul>
         </nav>
@@ -98,20 +106,20 @@
             </p>
         </section>
         <section class="skills">
-            <h3 class="skills__titulo">Skills</h3>
+            <h3 class="skills__titulo" id="skills">Skills</h3>
             <div class="skills__divcard">
                 <img src="imagenes/html5.png" alt="">
                 <img src="imagenes/css.png" alt="">
                 <img src="imagenes/javascript.png" alt="">
             </div>
-            <h3 class="skills__titulo">Hobbies</h3>
+            <h3 class="skills__titulo" id="hobbies">Hobbies</h3>
             <div class="skills__divcard">
                 <img src="imagenes/cocinar.png" alt="">
                 <img src="imagenes/musica.png" alt="">
                 <img src="imagenes/series.png" alt="">
             </div>
         </section>
-        <section class="formacion">
+        <section class="formacion" id="formacion">
             <h3 class="skills__titulo">Formación académica</h3>
             <div class="formacion__cards">
                 <div class="formacion__cards-card">
@@ -126,7 +134,7 @@
                 </div>
             </div>
         </section>
-        <section class="xp">
+        <section class="xp" id="proyectos">
             <div class="xp__div">
                 <h3 class="skills__titulo">Experiencia profesional</h3>
                 <div class="xp__cards1">
@@ -140,8 +148,47 @@
                         </div>
                     </div>
                 </div>
+                <div class="xp__cards2">
+                    <img src="imagenes/ahorcado.png" alt="">
+                    <div class="xp__cards-card">
+                        <h4 class="formacion__cards-titulo">Ahorcado: creado con HTML, CSS y Javascript</h4>
+                        <p class="formacion__cards-descripcion">Challenge Alura Codificador</p>
+                        <div class="xp__btn">
+                            <a href="" class="xp__btn-repo">Repositório</a>
+                            <a href="" class="xp__btn-demo">Ver demo</a>
+                        </div>
+                    </div>
+                </div>
             </div>    
         </section>
+        <section>
+            <div class="contacto">
+                <img src="imagenes/unsplash_JYGnB9gTCls.png" alt="">
+                <div class="contacto__contacto">
+                    <h3 class="contacto__titulo">Contacto</h3>
+                    <p class="formacion__cards-descripcion">¿Quieres contactarme?
+                        <br> Complete el siguiente formulario y me pondré en contacto con usted a la brevedad
+                    </p>
+                    <form class="contacto__form">
+                        <input type="text" placeholder="Nombre" class="contacto__form-input" required>
+                        <input type="text" placeholder="E-mail" class="contacto__form-input" required>
+                        <input type="text" placeholder="Asunto" class="contacto__form-input" required>
+                        <textarea name="" id="" cols="10" rows="10" placeholder="Ingrese su mensaje" class="contacto__ta" required></textarea>
+                        <button type="submit" class="form__btn">Enviar mensaje</button>
+                    </form>
+                </div>
+            </div>
+        </section>
     </main>
+    <footer class="footer">
+        <h4 class="footer__titulo">&#169Desarrollado por Martín Rodrigo Matías - 2022</h4>
+        <div class="footer__social"> 
+            <a href="" class="footer__social-link"><i class="fa-brands fa-instagram-square fa-2xl"></i></a>
+            <a href="" class="footer__social-link"><i class="fa-brands fa-linkedin-in fa-2xl"></i></a>
+            <a href="" class="footer__social-link"><i class="fa-brands fa-github fa-2xl"></i></a>
+            <a href="" class="footer__social-link"><i class="fa-solid fa-file-arrow-down fa-2xl"></i></a>
+        </div>
+    </footer>
+    <script src="js/fontawesome/js/all.min.js"></script>
 </body>
 </html>

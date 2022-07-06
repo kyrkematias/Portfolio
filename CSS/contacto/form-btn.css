@@ -1,0 +1,12 @@
+.form__btn{
+    background: #2A7AE4;
+    color: #ffffff;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    margin-top: 1rem;
+    text-decoration: none;
+    padding: 1.5rem;
+    text-align: center;
+    width: 285px;
+}

@@ -1,0 +1,6 @@
+.contacto__contacto{
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    width: 50%;
+}
