@@ -4,3 +4,10 @@
         font-size: 18px;
         margin-top: 2.5rem;
         width: 60vw;
+}
+
+@media (max-width: 600px){
+        .sobreMi__descripcion{
+                width: 100vw;
+        }
+}

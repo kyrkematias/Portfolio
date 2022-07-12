@@ -8,5 +8,12 @@
         width: 96vw;
     }
 
-
+@media (max-width: 600px){
+    .sobreMi{
+        align-items: center;
+        width: 100vw;
+        height: auto;
+        padding: 2.5rem 0.3rem;
+    }
+}
 
