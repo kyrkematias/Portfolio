@@ -9,3 +9,13 @@
 .skills__imagenes:hover{
     transform: scale(1.1, 1.1) rotate(0.01turn);;
 }
+
+@media (max-width: 600px){
+    .skills__divcard{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .skills__imagenes{
+        margin: 1rem 0;
+    }
+}
