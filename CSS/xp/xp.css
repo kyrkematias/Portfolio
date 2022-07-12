@@ -5,3 +5,21 @@
     padding: 2.5rem;
     text-align: center;
 }
+
+.xp__titulo{
+    color: #464646;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    margin: 1rem 0;
+}
+
+@media (max-width: 600px){
+    .xp__titulo{
+        width: 100vw;
+    }
+    .xp__imagenes{
+        width: 100vw;
+        align-self: center;
+    }
+}

@@ -11,3 +11,12 @@
     vertical-align: middle;
     width: 100%;
 }
+
+@media (max-width: 600px){
+        .xp__cards1{
+            flex-direction: column;
+        }
+        .xp__cards2{
+            flex-direction: column;
+        }
+    }
