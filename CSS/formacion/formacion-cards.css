@@ -8,3 +8,9 @@
     height: 286px;
     width: 368px;
 }
+
+@media (max-width: 600px){
+    .formacion__cards{
+        flex-direction: column;
+    }
+}
