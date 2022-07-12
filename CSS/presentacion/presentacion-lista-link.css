@@ -7,3 +7,8 @@
     border-bottom: #464646 1px solid;
 }
 
+@media (max-width: 600px){
+    .presentacion__lista__link{
+        width: 100%;
+    }
+}

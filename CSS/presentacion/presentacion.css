@@ -13,3 +13,15 @@
     width: calc(100vw - 380px);
 }
 
+@media (max-width: 600px){
+    .presentacion{
+        align-items: center;
+        flex-direction: column;
+        margin: 2.5rem 0;
+        padding: 0;
+    }
+    .presentacion__div{
+        width: 100%;
+    }
+}
+

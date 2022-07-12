@@ -9,4 +9,9 @@
     width: 80%;
 }
 
-
+@media (max-width: 600px){
+    .presentacion__descripcion{
+        width: 100%;
+        text-align: center;
+    }
+}

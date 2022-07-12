@@ -10,3 +10,10 @@
     width: 300px;
 }
 
+@media (max-width: 600px){
+    .presentacion__avatar{
+        margin: 0;
+        order: -1;
+        width: 200px;
+    }
+}

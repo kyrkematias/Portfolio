@@ -5,3 +5,8 @@
     text-align: center;
 }
 
+@media (max-width: 600px){
+    .presentacion__lista__item{
+        margin: 1rem 0;
+    }
+}

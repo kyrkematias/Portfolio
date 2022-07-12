@@ -7,3 +7,9 @@
     margin-top: 10rem;
 }
 
+@media (max-width: 600px){
+    .presentacion__lista{
+        flex-direction: column;
+        margin-top: 0;
+    }
+}
