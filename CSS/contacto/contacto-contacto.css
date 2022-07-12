@@ -4,3 +4,9 @@
     padding: 2rem;
     width: 50%;
 }
+
+@media (max-width: 600px){
+    .contacto__contacto{
+        width: 100vw;
+    }
+}

@@ -15,3 +15,9 @@
 .form__btn:hover{
     background: #464646;
 }
+
+@media (max-width: 600px){
+    .form__btn{
+        width: 100%;
+    }
+}
