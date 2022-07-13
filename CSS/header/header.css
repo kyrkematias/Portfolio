@@ -9,9 +9,15 @@
 
 @media (max-width: 992px) {
     .header{
-        width: 90vw;
+        width: 100vw;
         justify-content: space-around;
         padding: 0 0.5rem;
+    }
+}
+
+@media (width: 768px){
+    .header{
+        justify-content: space-between;
     }
 }
 

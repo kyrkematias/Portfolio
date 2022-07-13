@@ -17,3 +17,10 @@
     }
 }
 
+@media (width: 768px){
+    .sobreMi{
+        padding: 2.5rem;
+        width: 100%;
+    }
+}
+

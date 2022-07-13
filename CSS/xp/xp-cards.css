@@ -20,3 +20,12 @@
             flex-direction: column;
         }
     }
+
+@media (width: 768px){
+    .xp__cards1{
+        flex-direction: column;
+    }
+    .xp__cards2{
+        flex-direction: column;
+    }
+}

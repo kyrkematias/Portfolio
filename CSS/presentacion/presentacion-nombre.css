@@ -13,3 +13,9 @@
     }
 }
 
+@media (width: 768px){
+    .presentacion__nombre{
+        margin-bottom: 1rem;
+    }
+}
+

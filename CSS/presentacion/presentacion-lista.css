@@ -13,3 +13,9 @@
         margin-top: 0;
     }
 }
+
+@media (width: 768px){
+    .presentacion__lista{
+        margin-top: 2rem;
+    }
+}

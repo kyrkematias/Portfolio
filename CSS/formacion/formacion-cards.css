@@ -14,3 +14,9 @@
         flex-direction: column;
     }
 }
+
+@media (width: 768px){
+    .formacion__cards{
+        flex-direction: column;
+    }
+}

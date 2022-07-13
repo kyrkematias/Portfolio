@@ -17,3 +17,11 @@
         width: 200px;
     }
 }
+
+@media (width: 768px){
+    .presentacion__avatar{
+        height: 150px;
+        margin-right: 0;
+        width: 200px;
+    }
+}

@@ -25,3 +25,13 @@
     }
 }
 
+@media (width: 768px){
+    .presentacion{
+        height: 400px;
+        padding: 0 1.5rem;
+    }
+    .presentacion__div{
+        width: 100%;
+    }
+}
+

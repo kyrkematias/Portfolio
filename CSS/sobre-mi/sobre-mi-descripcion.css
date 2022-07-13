@@ -11,3 +11,9 @@
                 width: 100vw;
         }
 }
+
+@media (width:768px){
+        .sobreMi__descripcion{
+                width: 90vw;
+        }
+}

@@ -4,3 +4,9 @@
     flex-direction: column;
     padding: 2.5rem;
 }
+
+@media (width: 768px){
+    .skills{
+        width: 100%;
+    }
+}

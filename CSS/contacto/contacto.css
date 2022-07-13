@@ -39,3 +39,20 @@
         width: 100%;
     }
 }
+
+@media (width: 768px){
+    .contacto__imagen{
+        display: none;
+    }
+    .contacto{
+        justify-content: center;
+        width: 100%;
+        padding: 2.5;
+    }
+    .contacto__titulo{
+        text-align: center;
+    }
+    .contacto__descripcion{
+        width: 100%;
+    }
+}
